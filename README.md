@@ -1,4 +1,4 @@
 ## pok lab in assembly
 
-Author: Markiyan Valyavka
+Author: Markiyan Valyavka  
 Variant: 8
